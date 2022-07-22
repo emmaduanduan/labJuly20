@@ -6,3 +6,9 @@
 h1 {
   color: blueviolet;
 }
+#bunny {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  margin-top: 50px;
+}
